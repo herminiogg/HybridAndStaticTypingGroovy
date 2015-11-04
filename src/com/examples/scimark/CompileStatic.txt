@@ -1,0 +1,360 @@
+
+SciMark 2.0a
+
+Composite Score: 893.819310321636
+FFT (1024): 429.8276496519876
+SOR (100x100):   841.8326688938266
+Monte Carlo : 415.856629303388
+Sparse matmult (N=1000, nz=5000): 751.3442070443565
+LU (100x100): 2030.2353967146214
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+
+SciMark 2.0a
+
+Composite Score: 861.4377942594699
+FFT (1024): 428.98195930785664
+SOR (100x100):   841.0977304732157
+Monte Carlo : 392.44948832119303
+Sparse matmult (N=1000, nz=5000): 769.201879656263
+LU (100x100): 1875.4579135388212
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+
+SciMark 2.0a
+
+Composite Score: 915.7466698909399
+FFT (1024): 434.7558832287722
+SOR (100x100):   840.7307859932658
+Monte Carlo : 414.25224569425393
+Sparse matmult (N=1000, nz=5000): 774.6572505714577
+LU (100x100): 2114.33718396695
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+
+SciMark 2.0a
+
+Composite Score: 829.0538946768427
+FFT (1024): 397.3213423799823
+SOR (100x100):   835.9892197427595
+Monte Carlo : 412.0268019971624
+Sparse matmult (N=1000, nz=5000): 543.8672005475119
+LU (100x100): 1956.0649087167974
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+
+SciMark 2.0a
+
+Composite Score: 918.4059511048465
+FFT (1024): 435.51577877508805
+SOR (100x100):   847.0131548230904
+Monte Carlo : 414.7322632434426
+Sparse matmult (N=1000, nz=5000): 762.2681252901805
+LU (100x100): 2132.5004333924303
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+
+SciMark 2.0a
+
+Composite Score: 798.1020927880638
+FFT (1024): 357.5729053911074
+SOR (100x100):   577.7975969891367
+Monte Carlo : 380.75952107036886
+Sparse matmult (N=1000, nz=5000): 673.8920539779682
+LU (100x100): 2000.4883865117379
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+
+SciMark 2.0a
+
+Composite Score: 863.5423002573559
+FFT (1024): 336.5960220130257
+SOR (100x100):   830.9422178720614
+Monte Carlo : 399.45749376417456
+Sparse matmult (N=1000, nz=5000): 738.4337631422358
+LU (100x100): 2012.2820044952823
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+
+SciMark 2.0a
+
+Composite Score: 863.1715461827964
+FFT (1024): 415.8894941498519
+SOR (100x100):   819.632050258192
+Monte Carlo : 313.59284199493527
+Sparse matmult (N=1000, nz=5000): 757.4227177128129
+LU (100x100): 2009.3206267981902
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+
+SciMark 2.0a
+
+Composite Score: 732.7945014223417
+FFT (1024): 419.6921516756626
+SOR (100x100):   825.2483839482965
+Monte Carlo : 363.11863975876065
+Sparse matmult (N=1000, nz=5000): 731.6327213142287
+LU (100x100): 1324.2806104147598
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+
+SciMark 2.0a
+
+Composite Score: 868.6237441728792
+FFT (1024): 391.9641635636299
+SOR (100x100):   802.5635905776127
+Monte Carlo : 391.30533542996545
+Sparse matmult (N=1000, nz=5000): 730.8168117701007
+LU (100x100): 2026.4688195230876
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+
+SciMark 2.0a
+
+Composite Score: 875.9856067035992
+FFT (1024): 414.70297234823715
+SOR (100x100):   821.378961650933
+Monte Carlo : 395.0485097935386
+Sparse matmult (N=1000, nz=5000): 754.1542366462269
+LU (100x100): 1994.6433530790596
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+
+SciMark 2.0a
+
+Composite Score: 774.0481645657186
+FFT (1024): 425.83997977368625
+SOR (100x100):   828.0855558881996
+Monte Carlo : 387.9124910287689
+Sparse matmult (N=1000, nz=5000): 626.8388090792893
+LU (100x100): 1601.563987058649
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+
+SciMark 2.0a
+
+Composite Score: 866.7736314715648
+FFT (1024): 393.9116193583051
+SOR (100x100):   826.3100316532797
+Monte Carlo : 395.7765923181314
+Sparse matmult (N=1000, nz=5000): 723.9547460153938
+LU (100x100): 1993.9151680127145
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+
+SciMark 2.0a
+
+Composite Score: 861.8358476017413
+FFT (1024): 418.88583708422095
+SOR (100x100):   827.7298747897253
+Monte Carlo : 387.7724100002597
+Sparse matmult (N=1000, nz=5000): 736.7734994427854
+LU (100x100): 1938.0176166917154
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+
+SciMark 2.0a
+
+Composite Score: 828.724637467262
+FFT (1024): 368.2940493076679
+SOR (100x100):   821.0289338631194
+Monte Carlo : 315.3426822384806
+Sparse matmult (N=1000, nz=5000): 591.2133493411818
+LU (100x100): 2047.7441725858605
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+
+SciMark 2.0a
+
+Composite Score: 850.2391960476132
+FFT (1024): 416.68430371554535
+SOR (100x100):   828.7978359053072
+Monte Carlo : 259.10757967233644
+Sparse matmult (N=1000, nz=5000): 719.3852803459607
+LU (100x100): 2027.2209805989166
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+
+SciMark 2.0a
+
+Composite Score: 870.6485489868771
+FFT (1024): 423.15399072438066
+SOR (100x100):   819.9808877444558
+Monte Carlo : 367.8457886179094
+Sparse matmult (N=1000, nz=5000): 733.6803900322482
+LU (100x100): 2008.5816878153921
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+
+SciMark 2.0a
+
+Composite Score: 852.0185211775184
+FFT (1024): 431.9565611347354
+SOR (100x100):   753.8947622511033
+Monte Carlo : 381.57138076901566
+Sparse matmult (N=1000, nz=5000): 740.101625935256
+LU (100x100): 1952.5682757974816
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+
+SciMark 2.0a
+
+Composite Score: 806.4618140542161
+FFT (1024): 417.88230217280557
+SOR (100x100):   814.0917271845072
+Monte Carlo : 402.9050053919723
+Sparse matmult (N=1000, nz=5000): 447.65027730654094
+LU (100x100): 1949.7797582152546
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+
+SciMark 2.0a
+
+Composite Score: 813.8109356463349
+FFT (1024): 409.4461376256376
+SOR (100x100):   824.1894607645355
+Monte Carlo : 405.951506599822
+Sparse matmult (N=1000, nz=5000): 460.71001294164523
+LU (100x100): 1968.7575603000337
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+
+SciMark 2.0a
+
+Composite Score: 737.0176727446017
+FFT (1024): 331.8570445347649
+SOR (100x100):   707.9188428968149
+Monte Carlo : 349.18432759336383
+Sparse matmult (N=1000, nz=5000): 434.7330209098243
+LU (100x100): 1861.3951277882404
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+
+SciMark 2.0a
+
+Composite Score: 798.2555379661637
+FFT (1024): 410.21648726667473
+SOR (100x100):   805.5832108140004
+Monte Carlo : 375.1718477615307
+Sparse matmult (N=1000, nz=5000): 447.03957536121186
+LU (100x100): 1953.2665686274006
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+
+SciMark 2.0a
+
+Composite Score: 713.9772893128717
+FFT (1024): 406.2041405607156
+SOR (100x100):   807.9475956835173
+Monte Carlo : 351.3553095584003
+Sparse matmult (N=1000, nz=5000): 441.7660925613725
+LU (100x100): 1562.613308200353
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
+
+SciMark 2.0a
+
+Composite Score: 798.3151634081745
+FFT (1024): 418.48381655696585
+SOR (100x100):   828.0855558881996
+Monte Carlo : 391.0203218729329
+Sparse matmult (N=1000, nz=5000): 450.41923070110215
+LU (100x100): 1903.5668920216724
+
+java.vendor: Oracle Corporation
+java.version: 1.8.0_60
+os.arch: amd64
+os.name: Windows 10
+os.version: 10.0
